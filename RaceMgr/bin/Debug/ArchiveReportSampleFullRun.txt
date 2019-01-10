@@ -1,0 +1,81 @@
+Bob Desilets' Race Manager                4/22/2013 7:55:01 AM
+
+
+                 T E A M       R E S U L T S
+[Points] [Team Code] [P-1] [P-2] [P-3] [P-4] [P-5] [P-6] [P-7]
+  0078    WBCHS       005   012   016   019   026   052   059
+  0107    QRHS        007   017   021   029   033   034   055
+  0111    AUBHS       008   020   024   028   031   039   048
+  0115    WSHS        002   003   023   043   044   054   056
+  0118    OXHS        009   015   025   032   037   040   047
+  0119    WHS         004   014   030   035   036   057   060
+  0132    WDHS        006   010   022   041   053   058   ---
+  0133    GHS         011   013   018   045   046   049   051
+  0158    NBHS        001   027   038   042   050   ---   ---
+ 
+
+          I n d i v i d u a l       R e s u l t s
+
+Pos.     Time      Bib   School        Runner
+001  - 18:29.17  - 135   NBHS     Octavia Gildea               
+002  - 18:54.29  - 104   WSHS     Shanita Wind                 
+003  - 18:54.48  - 102   WSHS     Bridgette Moffitt            
+004  - 19:18.24  - 142   WHS      Audie Couse                  
+005  - 19:23.10  - 119   WBCHS    Aleida Silman                
+006  - 19:26.82  - 111   WDHS     Hang Hodapp                  
+007  - 19:32.23  - 125   QRHS     Sheri Wahlgren               
+008  - 19:42.43  - 147   AUBHS    Shanda Walquist              
+009  - 19:50.70  - 160   OXHS     Cherry Robotham              
+010  - 19:55.82  - 108   WDHS     Maisha Kleis                 
+011  - 20:16.08  - 130   GHS      Rhiannon Estrello            
+012  - 20:32.97  - 117   WBCHS    Eleanore Younkin             
+013  - 20:33.22  - 132   GHS      Jolynn Salone                
+014  - 20:53.83  - 140   WHS      Charlotte Clutter            
+015  - 21:02.59  - 154   OXHS     Teena Cogliano               
+016  - 21:16.38  - 120   WBCHS    My Dobyns                    
+017  - 21:21.08  - 126   QRHS     Brittney Tovey               
+018  - 21:31.48  - 128   GHS      Jayna Laurent                
+019  - 21:51.19  - 115   WBCHS    Renate Deforge               
+020  - 22:01.83  - 152   AUBHS    Racquel Spengler             
+021  - 22:10.93  - 121   QRHS     Kelley Barela                
+022  - 22:11.91  - 110   WDHS     Deane Rocheleau              
+023  - 22:16.62  - 103   WSHS     Karine Chunn                 
+024  - 22:18.29  - 151   AUBHS    Lura Mccants                 
+025  - 22:19.16  - 158   OXHS     Noriko Bones                 
+026  - 22:20.54  - 114   WBCHS    Valentine Vant               
+027  - 22:21.40  - 139   NBHS     Jeniffer Bichrest            
+028  - 22:25.68  - 149   AUBHS    Kena Launer                  
+029  - 22:50.11  - 122   QRHS     Tatyana Thornley             
+030  - 22:57.76  - 146   WHS      Beatriz Embury               
+031  - 23:04.07  - 150   AUBHS    Tatum Hoppe                  
+032  - 23:04.54  - 157   OXHS     Kirstie Soluri               
+033  - 23:07.77  - 127   QRHS     Tuyet Manfre                 
+034  - 23:23.39  - 124   QRHS     Krysta Sweet                 
+035  - 23:24.64  - 143   WHS      Madelaine Lightbody          
+036  - 23:28.49  - 144   WHS      Nery Shawl                   
+037  - 23:28.81  - 155   OXHS     Lorilee Nelsen               
+038  - 23:29.08  - 136   NBHS     Charlene Heredia             
+039  - 23:54.10  - 148   AUBHS    Felipa Gillen                
+040  - 23:55.36  - 159   OXHS     Sherika Gordan               
+041  - 24:15.87  - 113   WDHS     Shalon Mcmonigle             
+042  - 24:16.17  - 138   NBHS     Dong Factor                  
+043  - 24:24.64  - 106   WSHS     Albertha Baringer            
+044  - 24:25.54  - 105   WSHS     Fernanda Parsell             
+045  - 24:27.74  - 133   GHS      Johnie Rasmus                
+046  - 24:34.66  - 134   GHS      Tashia Schlick               
+047  - 24:35.33  - 156   OXHS     Lasandra Clauson             
+048  - 24:39.30  - 153   AUBHS    Lizbeth Grauberger           
+049  - 25:14.75  - 129   GHS      Anastasia Noles              
+050  - 25:25.87  - 137   NBHS     Reina Tatem                  
+051  - 25:43.87  - 131   GHS      Katy Dent                    
+052  - 26:03.25  - 118   WBCHS    Alexia Fandel                
+053  - 26:34.07  - 109   WDHS     Lezlie Berson                
+054  - 26:36.04  - 101   WSHS     Sanora Hibshman              
+055  - 26:38.13  - 123   QRHS     Diedre Hake                  
+056  - 26:46.89  - 107   WSHS     Carlee Sowards               
+057  - 27:14.52  - 141   WHS      Alaine Chowning              
+058  - 27.57.58  - 112   WDHS     Zola Dorrough                
+059  - 28:00.53  - 116   WBCHS    Yung Corner                  
+060  - 28:01.24  - 145   WHS      Milda Auxier                 
+
+

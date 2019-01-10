@@ -1,0 +1,84 @@
+Bob Desilets' Race Manager                      4/12/2013 9:45:50 AM
+ 
+NOTE: this is a sample layout... Your code must display the runner's 
+      school name not the school code, Use of proper spacing not the
+      "|" symbol...
+
+====================================================================
+                       School Summary
+====================================================================
+                 T E A M       R E S U L T S
+[Points] [Team Code] [P-1] [P-2] [P-3] [P-4] [P-5] [P-6] [P-7]
+  0056    AUBHS       005   006   009   013   023   030   056
+  0105    WBCHS       002   019   024   028   032   034   053
+  0114    WDHS        010   017   027   029   031   044   ---
+  0116    QRHS        007   018   020   033   038   039   049
+  0119    OXHS        004   008   011   045   051   052   055
+  0120    GHS         015   021   022   026   036   047   050
+  0135    NBHS        001   003   042   043   046   ---   ---
+  0155    WSHS        012   014   035   040   054   057   059
+  0167    WHS         016   025   037   041   048   058   060
+ 
+====================================================================
+Pos    Time    Bib   Shool    Runner
+====================================================================
+1  - 18:29.17 - 139 - NBHS|Jeniffer|Bichrest
+2  - 18:54.29 - 119 - WBCHS|Aleida|Silman
+3  - 18:54.48 - 135 - NBHS|Octavia|Gildea
+4  - 19:18.24 - 160 - OXHS|Cherry|Robotham
+5  - 19:23.10 - 151 - AUBHS|Lura|Mccants
+6  - 19:26.82 - 147 - AUBHS|Shanda|Walquist
+7  - 19:32.23 - 126 - QRHS|Brittney|Tovey
+8  - 19:42.43 - 155 - OXHS|Lorilee|Nelsen
+9  - 19:50.70 - 149 - AUBHS|Kena|Launer
+10 - 19:55.82 - 112 - WDHS|Zola|Dorrough
+11 - 20:16.08 - 157 - OXHS|Kirstie|Soluri
+12 - 20:32.97 - 106 - WSHS|Albertha|Baringer
+13 - 20:33.22 - 148 - AUBHS|Felipa|Gillen
+14 - 20:53.83 - 107 - WSHS|Carlee|Sowards
+15 - 21:02.59 - 131 - GHS|Katy|Dent
+16 - 21:16.38 - 146 - WHS|Beatriz|Embury
+17 - 21:21.08 - 109 - WDHS|Lezlie|Berson
+18 - 21:31.48 - 125 - QRHS|Sheri|Wahlgren
+19 - 21:51.19 - 120 - WBCHS|My|Dobyns
+20 - 22:01.83 - 127 - QRHS|Tuyet|Manfre
+21 - 22:10.93 - 130 - GHS|Rhiannon|Estrello
+22 - 22:11.91 - 128 - GHS|Jayna|Laurent
+23 - 22:16.62 - 150 - AUBHS|Tatum|Hoppe
+24 - 22:18.29 - 117 - WBCHS|Eleanore|Younkin
+25 - 22:19.16 - 140 - WHS|Charlotte|Clutter
+26 - 22:20.54 - 129 - GHS|Anastasia|Noles
+27 - 22:21.40 - 111 - WDHS|Hang|Hodapp
+28 - 22:25.68 - 114 - WBCHS|Valentine|Vant
+29 - 22:50.11 - 113 - WDHS|Shalon|Mcmonigle
+30 - 22:57.76 - 152 - AUBHS|Racquel|Spengler
+31 - 23:04.07 - 108 - WDHS|Maisha|Kleis
+32 - 23:04.54 - 115 - WBCHS|Renate|Deforge
+33 - 23:07.77 - 122 - QRHS|Tatyana|Thornley
+34 - 23:23.39 - 118 - WBCHS|Alexia|Fandel
+35 - 23:24.64 - 105 - WSHS|Fernanda|Parsell
+36 - 23:28.49 - 133 - GHS|Johnie|Rasmus
+37 - 23:28.81 - 142 - WHS|Audie|Couse
+38 - 23:29.08 - 121 - QRHS|Kelley|Barela
+39 - 23:54.10 - 124 - QRHS|Krysta|Sweet
+40 - 23:55.36 - 103 - WSHS|Karine|Chunn
+41 - 24:15.87 - 145 - WHS|Milda|Auxier
+42 - 24:16.17 - 137 - NBHS|Reina|Tatem
+43 - 24:24.64 - 136 - NBHS|Charlene|Heredia
+44 - 24:25.54 - 110 - WDHS|Deane|Rocheleau
+45 - 24:27.74 - 159 - OXHS|Sherika|Gordan
+46 - 24:34.66 - 138 - NBHS|Dong|Factor
+47 - 24:35.33 - 132 - GHS|Jolynn|Salone
+48 - 24:39.30 - 143 - WHS|Madelaine|Lightbody
+49 - 25:14.75 - 123 - QRHS|Diedre|Hake
+50 - 25:25.87 - 134 - GHS|Tashia|Schlick
+51 - 25:43.87 - 154 - OXHS|Teena|Cogliano
+52 - 26:03.25 - 156 - OXHS|Lasandra|Clauson
+53 - 26:34.07 - 116 - WBCHS|Yung|Corner
+54 - 26:36.04 - 101 - WSHS|Sanora|Hibshman
+55 - 26:38.13 - 158 - OXHS|Noriko|Bones
+56 - 26:46.89 - 153 - AUBHS|Lizbeth|Grauberger
+57 - 27:14.52 - 104 - WSHS|Shanita|Wind
+58 - 27.57.58 - 144 - WHS|Nery|Shawl
+59 - 28:00.53 - 102 - WSHS|Bridgette|Moffitt
+60 - 28:01.24 - 141 - WHS|Alaine|Chowning

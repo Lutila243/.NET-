@@ -1,0 +1,77 @@
+Bob Desilets' Race Manager                    4/17/2013 11:32:08 AM
+
+                 T E A M       R E S U L T S
+[Points] [Team Code] [P-1] [P-2] [P-3] [P-4] [P-5] [P-6] [P-7]
+  0070    GHS         002   006   011   017   034   040   058
+  0106    AUBHS       003   005   020   036   042   045   055
+  0110    WBCHS       008   018   019   021   044   046   050
+  0113    QRHS        001   009   027   029   047   048   051
+  0118    WDHS        013   014   025   031   035   057   ---
+  0118    WHS         007   022   023   028   038   052   054
+  0129    NBHS        004   016   026   030   053   ---   ---
+  0134    OXHS        010   015   033   037   039   049   056
+  0152    WSHS        012   024   032   041   043   059   060
+
+====================================================================
+Pos  Time      Bib#  SCode           Name
+====================================================================
+01 - 18:29.17 - 121 - QRHS      Kelley Barela
+02 - 18:54.29 - 133 - GHS       Johnie Rasmus
+03 - 18:54.48 - 152 - AUBHS     Racquel Spengler
+04 - 19:18.24 - 137 - NBHS      Reina Tatem
+05 - 19:23.10 - 153 - AUBHS     Lizbeth Grauberger
+06 - 19:26.82 - 128 - GHS       Jayna Laurent
+07 - 19:32.23 - 145 - WHS       Milda Auxier
+08 - 19:42.43 - 116 - WBCHS     Yung Corner
+09 - 19:50.70 - 122 - QRHS      Tatyana Thornley
+10 - 19:55.82 - 158 - OXHS      Noriko Bones
+11 - 20:16.08 - 134 - GHS       Tashia Schlick
+12 - 20:32.97 - 102 - WSHS      Bridgette Moffitt
+13 - 20:33.22 - 108 - WDHS      Maisha Kleis
+14 - 20:53.83 - 110 - WDHS      Deane Rocheleau
+15 - 21:02.59 - 160 - OXHS      Cherry Robotham
+16 - 21:16.38 - 136 - NBHS      Charlene Heredia
+17 - 21:21.08 - 130 - GHS       Rhiannon Estrello
+18 - 21:31.48 - 117 - WBCHS     Eleanore Younkin
+19 - 21:51.19 - 119 - WBCHS     Aleida Silman
+20 - 22:01.83 - 150 - AUBHS     Tatum Hoppe
+21 - 22:10.93 - 120 - WBCHS     My Dobyns
+22 - 22:11.91 - 142 - WHS       Audie Couse
+23 - 22:16.62 - 140 - WHS       Charlotte Clutter
+24 - 22:18.29 - 106 - WSHS      Albertha Baringer
+25 - 22:19.16 - 112 - WDHS      Zola Dorrough
+26 - 22:20.54 - 135 - NBHS      Octavia Gildea
+27 - 22:21.40 - 125 - QRHS      Sheri Wahlgren
+28 - 22:25.68 - 141 - WHS       Alaine Chowning
+29 - 22:50.11 - 127 - QRHS      Tuyet Manfre
+30 - 22:57.76 - 138 - NBHS      Dong Factor
+31 - 23:04.07 - 113 - WDHS      Shalon Mcmonigle
+32 - 23:04.54 - 103 - WSHS      Karine Chunn
+33 - 23:07.77 - 156 - OXHS      Lasandra Clauson
+34 - 23:23.39 - 129 - GHS       Anastasia Noles
+35 - 23:24.64 - 111 - WDHS      Hang Hodapp
+36 - 23:28.49 - 147 - AUBHS     Shanda Walquist
+37 - 23:28.81 - 154 - OXHS      Teena Cogliano
+38 - 23:29.08 - 144 - WHS       Nery Shawl
+39 - 23:54.10 - 159 - OXHS      Sherika Gordan
+40 - 23:55.36 - 131 - GHS       Katy Dent
+41 - 24:15.87 - 107 - WSHS      Carlee Sowards
+42 - 24:16.17 - 148 - AUBHS     Felipa Gillen
+43 - 24:24.64 - 101 - WSHS      Sanora Hibshman
+44 - 24:25.54 - 115 - WBCHS     Renate Deforge
+45 - 24:27.74 - 149 - AUBHS     Kena Launer
+46 - 24:34.66 - 114 - WBCHS     Valentine Vant
+47 - 24:35.33 - 126 - QRHS      Brittney Tovey
+48 - 24:39.30 - 123 - QRHS      Diedre Hake
+49 - 25:14.75 - 155 - OXHS      Lorilee Nelsen
+50 - 25:25.87 - 118 - WBCHS     Alexia Fandel
+51 - 25:43.87 - 124 - QRHS      Krysta Sweet
+52 - 26:03.25 - 146 - WHS       Beatriz Embury
+53 - 26:34.07 - 139 - NBHS      Jeniffer Bichrest
+54 - 26:36.04 - 143 - WHS       Madelaine Lightbody
+55 - 26:38.13 - 151 - AUBHS     Lura Mccants
+56 - 26:46.89 - 157 - OXHS      Kirstie Soluri
+57 - 27:14.52 - 109 - WDHS      Lezlie Berson
+58 - 27.57.58 - 132 - GHS       Jolynn Salone
+59 - 28:00.53 - 104 - WSHS      Shanita Wind
+60 - 28:01.24 - 105 - WSHS      Fernanda Parsell

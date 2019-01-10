@@ -1,0 +1,358 @@
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgr\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BU\My Backup -- 08-11-03 0340PM\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CourseMaterial\CIS223\ProjectTreasureBox\RaceMgrPrototype04-27-2012TheMostcomplete\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+D:\CourseMaterial\CIS223\ProjectTreasureBox\0000-RaceMgrPrototype04-27-2012TheMostcompleteWIP\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\CourseMaterial\CIS223\ProjectTreasureBox\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+C:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+C:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+C:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CourseMaterial\CIS223\0000_00RaceMgrPrototype04-27-2012TheMostcompleteWIPProdVersion\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+E:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+E:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+E:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+E:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+E:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+E:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+E:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbprojResolveAssemblyReference.cache
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+F:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.exe
+F:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\RaceMgr\RaceMgr\bin\Debug\RaceMgr.xml
+F:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbprojResolveAssemblyReference.cache
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\RaceMgr\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\RaceMgr....bob\RaceMgr\bin\Debug\RaceMgr.exe
+F:\RaceMgr....bob\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\RaceMgr....bob\RaceMgr\bin\Debug\RaceMgr.xml
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\RaceMgr.vbprojResolveAssemblyReference.cache
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\RaceMgr....bob\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\RaceMgr.pdb
+F:\git file\Race Manager project\RaceMgr\bin\Debug\RaceMgr.exe
+F:\git file\Race Manager project\RaceMgr\bin\Debug\RaceMgr.pdb
+F:\git file\Race Manager project\RaceMgr\bin\Debug\RaceMgr.xml
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\RaceMgr.vbprojResolveAssemblyReference.cache
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMDataEntry.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplash.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRMSplashOrg.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM3000.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM1000.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM0000.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM2000.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.frmRM4000.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\git file\Race Manager project\RaceMgr\obj\x86\Debug\RaceMgr.vbproj.GenerateResource.Cache
+F:\git file\Race Manager Class project\RaceMgr\obj\x86\Debug\RaceMgr.exe
+F:\git file\Race Manager Class project\RaceMgr\obj\x86\Debug\RaceMgr.xml
+F:\git file\Race Manager Class project\RaceMgr\obj\x86\Debug\RaceMgr.pdb

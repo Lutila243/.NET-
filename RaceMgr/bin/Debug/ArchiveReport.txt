@@ -1,0 +1,25 @@
+Bob Desilets' Race Manager                             3/31/2015 12:38:05 PM
+
+
+                 T E A M       R E S U L T S
+[Points] [Team Code] [P-1] [P-2] [P-3] [P-4] [P-5] [P-6] [P-7]
+  0028    WSHS        002   003   006   008   009   010   011
+  0029    WDHS        001   004   005   007   012   013   ---
+ 
+         Individual Results
+Pos.     Time      Bib   School        Runner
+001  - 18:29.17  - 113   WDHS     Shalon Mcmonigle             
+002  - 18:54.29  - 101   WSHS     Sanora Hibshman              
+003  - 18:54.48  - 102   WSHS     Bridgette Moffitt            
+004  - 19:18.24  - 112   WDHS     Zola Dorrough                
+005  - 19:23.10  - 111   WDHS     Hang Hodapp                  
+006  - 19:26.82  - 103   WSHS     Karine Chunn                 
+007  - 19:32.23  - 110   WDHS     Deane Rocheleau              
+008  - 19:42.43  - 104   WSHS     Shanita Wind                 
+009  - 19:50.70  - 105   WSHS     Fernanda Parsell             
+010  - 19:55.82  - 106   WSHS     Albertha Baringer            
+011  - 20:16.08  - 107   WSHS     Carlee Sowards               
+012  - 20:32.97  - 108   WDHS     Maisha Kleis                 
+013  - 20:33.22  - 109   WDHS     Lezlie Berson                
+
+
